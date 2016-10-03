@@ -9,10 +9,13 @@
         <h2>Scott Learmonth</h2>
 
         <?php
-        $myname = "Frodo Baggins";
-        $myage = 111;
-        echo "My name is " . $myname . " and I am " . $myage;
-
+        $name = "Edgar";
+        if ($name == "Simon") {
+            print "I know you!";
+        }
+        else {
+            print "Who are you?";
+        }
         ?>
     </body>
 </html>
