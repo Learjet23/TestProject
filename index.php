@@ -11,8 +11,8 @@
         <?php
         $myname = "Frodo Baggins";
         $myage = 111;
-        echo "My name is" . $myname . "and I am " . $myage;
-        
+        echo "My name is " . $myname . " and I am " . $myage;
+
         ?>
     </body>
 </html>
