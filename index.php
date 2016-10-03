@@ -9,7 +9,7 @@
         <h2>Scott Learmonth</h2>
 
         <?php
-        $name = "Edgar";
+        $name = "Simon";
         if ($name == "Simon") {
             print "I know you!";
         }
