@@ -25,7 +25,7 @@
 
     //execute the SQL query
 
-    $result = $db->query($dbsql_query);
+    $result = $db->query($sql_query);
 
     //iterate over $result object one $row at a time
     //use fetch_array() to return an associative array
