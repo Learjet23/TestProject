@@ -36,7 +36,7 @@
         echo "<p>" .$row['superheroName']."</p>";
     }
 
-    $result->dose();
+    $result->close();
     //dose connection to database
-    $db->dose();
+    $db->close();
 ?>
