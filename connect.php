@@ -5,6 +5,8 @@
  * Date: 10/10/2016
  * Time: 14:13
  */
+
+    //connect to cdsm webserver and select database
     $db = new my(
         'hostname',
         'username',
