@@ -7,7 +7,7 @@
  */
 
     //connect to cdsm webserver and select database
-    $db = new my(
+    $db = new mysqli(
         'hostname',
         'username',
         'password',
