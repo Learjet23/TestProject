@@ -37,6 +37,6 @@
     }
 
     $result->close();
-    //dose connection to database
+    //close connection to database
     $db->close();
 ?>
