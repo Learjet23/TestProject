@@ -8,10 +8,10 @@
 
     //connect to cdsm webserver and select database
     $db = new mysqli(
-        'hostname',
-        'username',
-        'password',
-        'db_name'
+        'eu-cdbr-azure-west-a.cloudapp.net',
+        'beb5f18bde3177',
+        'b97117f9',
+        'sl1303677'
     );
 
     //test if connection was established and print any errors
