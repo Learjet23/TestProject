@@ -22,7 +22,7 @@
 
     //create a SQL query as a string
 
-    $sql_query = "SELECT * FROM superheroes WHERE superpower LIKE '%laser%'";
+    $sql_query = "SELECT * FROM marvelMovies WHERE title LIKE '%Captain%'";
 
     //execute the SQL query
 
