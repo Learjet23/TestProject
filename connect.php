@@ -6,9 +6,9 @@
  * Time: 14:13
  */
     $db = new my(
-        'hostname'
-        'username'
-        'password'
+        'hostname',
+        'username',
+        'password',
         'db_name'
     );
 
